@@ -27,7 +27,7 @@ let s:colibri.lavender  = ["#a4a0e8", 146]
 let s:colibri.comet     = ["#5a5977", 60]
 let s:colibri.bossanova = ["#452859", 53]
 let s:colibri.midnight  = ["#3b224c", 17]
-let s:colibri.revolver  = ["#281733", 17]
+let s:colibri.revolver  = ["#a4a0e8", 17]
 
 " syntax groups
 " white
