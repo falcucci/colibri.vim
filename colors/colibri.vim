@@ -40,7 +40,7 @@ let s:colibri.chamois   = ["#E8DCA0", 187]
 let s:colibri.honey     = ["#EFBA5D", 215] " alt: saturation is closer #DDB56F
 
 " selection
-let s:colibri.cedar     = ["#802F00", 88]
+let s:colibri.cedar     = ["#540099", 88]
 
 let s:colibri.sinbad    = ["#7FB998", 156]
 
